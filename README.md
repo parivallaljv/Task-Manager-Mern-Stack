@@ -157,16 +157,12 @@ DELETE /api/users/:id        - Delete user
 - [ ] Mobile app (React Native)
 - [ ] Third-party integrations (Slack, Jira)
 
-## 📸 Screenshots
-
-[Add screenshots of your application here]
-
 ## 👨‍💻 Developer
 
 **Parivallal J**
 - GitHub: [@parivallaljv](https://github.com/parivallaljv)
 - LinkedIn: [parivallal-j-developer](https://www.linkedin.com/in/parivallal-j-developer)
-- Email: johnparijv@gmail.com
+- Email: parivallalj56@gmail.com
 
 ## 📄 License
 
